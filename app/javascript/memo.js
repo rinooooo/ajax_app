@@ -43,3 +43,4 @@ function post (){
 };
 
 window.addEventListener('load', post);
+//windowをloadしたら関数postを実行！
